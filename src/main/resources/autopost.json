@@ -1,0 +1,24 @@
+{
+  "tumblrAccount1": {
+    "blog1": {
+      "postsFolder": "C:\\Users\\MyUser\\Desktop\\TumblrAccount1",
+      "postTags": [
+        "tag1",
+        "tag2",
+        "tag3"
+      ],
+      "postingTimes": [
+        {
+          "startTime": "16:00",
+          "endTime": "17:00"
+        },
+        {
+          "startTime": "6:00",
+          "endTime": "7:00"
+        }
+      ]
+    }
+  }
+}
+
+

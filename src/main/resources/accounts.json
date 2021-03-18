@@ -1,0 +1,14 @@
+{
+  "tumblrAccount1": {
+    "consumerKey": "",
+    "consumerSecret": "",
+    "token": "",
+    "tokenSecret": "",
+    "proxy": {
+      "ip": "",
+      "port": "",
+      "user": "",
+      "password": ""
+    }
+  }
+}
